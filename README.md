@@ -3,15 +3,6 @@
 Eu sou estudante do 3º período do curso de Ciência da Computação da UTFPR Campus Campo Mourão. Fiz curso Técnico em Informática Integrado ao Ensino Médio. Atualmente, meu foco de estudo se concentra em aprender Data Science, com o intuito de produzir soluções para as mais diversas cadeias produtivas do Brasil.  
 <a href="https://peagemm.com/">🔗Conheça o projeto que desenvolvi durante o Ensino Médio</a>.
 
-
-### 💻 Tecnologias
-
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-
-
-
 ### 📈 GitHub Analytics
 <div>
 <a href="https://github.com/anacarlaquallio">
