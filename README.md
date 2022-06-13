@@ -1,7 +1,7 @@
 ### 👋 Olá 
 
 Eu sou estudante do 3º período do curso de Ciência da Computação da UTFPR Campus Campo Mourão. Fiz curso Técnico em Informática Integrado ao Ensino Médio. Atualmente, meu foco de estudo se concentra em aprender Data Science, com o intuito de produzir soluções para as mais diversas cadeias produtivas do Brasil.  
-<a href="https://peagemm.com/">🔗Conheça o projeto que desenvolvi durante o Ensino Médio</a>.
+<a href="https://www.peagemm.com/">🔗Conheça o projeto que desenvolvi durante o Ensino Médio</a>.
 
 ### 📈 GitHub Analytics
 <div>
